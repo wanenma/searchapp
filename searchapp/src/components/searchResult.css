@@ -1,0 +1,6 @@
+.searchResult{
+    padding: 10px 20px;
+}
+.searchResult:hover{
+    background-color: rgb(226, 228, 230);
+}
